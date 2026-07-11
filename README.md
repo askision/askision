@@ -25,8 +25,8 @@
 </p>
 
 ### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=askision&show_icons=true&theme=transparent&hide_border=true&title_color=808080&icon_color=808080&text_color=999" alt="askision stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=askision&show_icons=true&theme=tokyonight" alt="askision stats" />
 </p>
 
 ---
