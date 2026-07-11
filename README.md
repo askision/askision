@@ -26,7 +26,7 @@
 
 ### 📊 Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=askision&show_icons=true&theme=tokyonight" alt="askision stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=askision&theme=tokyonight" alt="askision streak" />
 </p>
 
 ---
